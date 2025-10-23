@@ -63,25 +63,25 @@
 <h2 align="left">🏆 Featured Projects</h2>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/🩸%20BloodServe-Legendary%20Backend%20Build-8A2BE2?style=for-the-badge&logo=node.js&logoColor=white&labelColor=1E1E2E" width="600" height="90"/><br>
+  <img src="https://img.shields.io/badge/🩸%20BloodServe-Legendary%20Backend%20Build-8A2BE2?style=for-the-badge&logo=node.js&logoColor=white&labelColor=1E1E2E" width="450" height="90"/><br>
   <sub>Secure Blood Bank System • Authentication • Role-based Access Control</sub><br>
   <sub><b>Tech:</b> Node.js · Express · PostgreSQL</sub>
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/🎓%20StudySync-Epic%20Mobile%20App-00B8D4?style=for-the-badge&logo=flutter&logoColor=white&labelColor=1E1E2E" width="600" height="90"/><br>
+  <img src="https://img.shields.io/badge/🎓%20StudySync-Epic%20Mobile%20App-00B8D4?style=for-the-badge&logo=flutter&logoColor=white&labelColor=1E1E2E" width="450" height="90"/><br>
   <sub>AI-powered student productivity app (timetables, reminders, notes)</sub><br>
   <sub><b>Tech:</b> Flutter · Dart · Firebase · Gemini AI</sub>
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/🎮%20Nerve-Classic%20CLI%20Challenge-FF5733?style=for-the-badge&logo=c&logoColor=white&labelColor=1E1E2E" width="600" height="90"/><br>
+  <img src="https://img.shields.io/badge/🎮%20Nerve-Classic%20CLI%20Challenge-FF5733?style=for-the-badge&logo=c&logoColor=white&labelColor=1E1E2E" width="450" height="90"/><br>
   <sub>Terminal-based reflex game written purely in C</sub><br>
   <sub><b>Tech:</b> C Language</sub>
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/⚙️%20Your%20Project%20Here-Build%20With%20Me-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=1E1E2E" width="600" height="90"/><br>
+  <img src="https://img.shields.io/badge/⚙️%20Your%20Project%20Here-Build%20With%20Me-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=1E1E2E" width="450" height="90"/><br>
   <sub>Let’s turn your idea into a scalable backend and beautiful frontend.</sub><br>
   <sub><b>Tech:</b> Best Suitable for your project</sub>
 </p>
@@ -92,7 +92,7 @@
 
 <h2 align="left">🏆 Developer Achievements</h2>
 
-<p align="left" style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px;">
+<p align="left" style="display:flex; flex-wrap:wrap; justify-content:center; gap:30px;">
   <img src="https://img.shields.io/badge/🛠️%20Backend%20Mastery-1E1E2E?style=for-the-badge&logo=node.js&logoColor=00FFAA&labelColor=121212" height="50" />
   <img src="https://img.shields.io/badge/📱%20Flutter%20Craftsman-1E1E2E?style=for-the-badge&logo=flutter&logoColor=40C4FF&labelColor=121212" height="50" />
   <img src="https://img.shields.io/badge/🤖%20AI%20Integrator-1E1E2E?style=for-the-badge&logo=openai&logoColor=8A2BE2&labelColor=121212" height="50" />
@@ -111,7 +111,7 @@
 
 ### 🌐 Connect With Me
 
-<p align="center">
+<p align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:30px;>
   <a href="https://www.linkedin.com/in/abdul-wahab-90ab9a223/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
