@@ -8,15 +8,15 @@
 
 <p align="center">
   <i>Software Engineering Undergraduate | Backend & Mobile Developer</i><br>
-  <b>Crafting scalable backends ⚙️, building seamless cross-platform experiences 📱, and integrating intelligent AI-driven systems 🤖.</b>
+<b>Crafting scalable backends ⚙️, building seamless cross-platform apps 📱, and integrating intelligent AI systems 🤖 for the modern web.</b>
 </p>
 
 ---
 
 ### 🚀 About Me
-💡 A passionate developer dedicated to **building efficient, reliable, and human-centered digital systems**.  
+💡 A passionate developer focused on **building efficient, reliable, and user-centric digital systems**.  
 🎯 Currently focused on mastering **Backend Development** with **Node.js, TypeScript, and modern database ecosystems**.  
-🌱 Learning **Cloud & DevOps** to design, deploy, and scale production-ready applications.  
+🌱 Expanding into **Cloud & DevOps** to design, deploy, and scale production-grade systems.  
 ⚡ I believe in clean architecture, continuous learning, and delivering impactful solutions.  
 
 ---
@@ -62,26 +62,26 @@
 
 <h2 align="left">🏆 Featured Projects</h2>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/🩸%20BloodServe-Legendary%20Backend%20Build-8A2BE2?style=for-the-badge&logo=node.js&logoColor=white&labelColor=1E1E2E" width="450" height="90"/><br>
-  <sub>Secure Blood Bank System • Authentication • Role-based Access Control</sub><br>
+<p align="left" style="margin-top:10px;">
+  <img src="https://img.shields.io/badge/🩸%20BloodServe-Legendary%20Backend%20Build-8A2BE2?style=for-the-badge&logo=node.js&logoColor=white&labelColor=1E1E2E" width="480" height="90"/><br>
+<sub><b>Secure Blood Bank System</b> — authentication, access control, and RESTful APIs.</sub>
   <sub><b>Tech:</b> Node.js · Express · PostgreSQL</sub>
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/🎓%20StudySync-Epic%20Mobile%20App-00B8D4?style=for-the-badge&logo=flutter&logoColor=white&labelColor=1E1E2E" width="450" height="90"/><br>
-  <sub>AI-powered student productivity app (timetables, reminders, notes)</sub><br>
+<p align="left" style="margin-top:10px;">
+  <img src="https://img.shields.io/badge/🎓%20StudySync-Epic%20Mobile%20App-00B8D4?style=for-the-badge&logo=flutter&logoColor=white&labelColor=1E1E2E" width="480" height="90"/><br>
+<sub><b>AI-powered Student Productivity App</b> — timetables, reminders, and material sharing.</sub>
   <sub><b>Tech:</b> Flutter · Dart · Firebase · Gemini AI</sub>
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/🎮%20Nerve-Classic%20CLI%20Challenge-FF5733?style=for-the-badge&logo=c&logoColor=white&labelColor=1E1E2E" width="450" height="90"/><br>
+<p align="left" style="margin-top:10px;">
+  <img src="https://img.shields.io/badge/🎮%20Nerve-Classic%20CLI%20Challenge-FF5733?style=for-the-badge&logo=c&logoColor=white&labelColor=1E1E2E" width="480" height="90"/><br>
   <sub>Terminal-based reflex game written purely in C</sub><br>
   <sub><b>Tech:</b> C Language</sub>
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/⚙️%20Your%20Project%20Here-Build%20With%20Me-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=1E1E2E" width="450" height="90"/><br>
+<p align="left" style="margin-top:10px;>
+  <img src="https://img.shields.io/badge/⚙️%20Your%20Project%20Here-Build%20With%20Me-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=1E1E2E" width="480" height="90"/><br>
   <sub>Let’s turn your idea into a scalable backend and beautiful frontend.</sub><br>
   <sub><b>Tech:</b> Best Suitable for your project</sub>
 </p>
@@ -110,6 +110,7 @@
 ---
 
 ### 🌐 Connect With Me
+Let’s collaborate and build something impactful 🚀  
 
 <p align="left" style="display:flex; flex-wrap:wrap; justify-content:center; gap:30px;>
   <a href="https://www.linkedin.com/in/abdul-wahab-90ab9a223/" target="_blank">
@@ -126,6 +127,9 @@
 ---
 
 <div align="center">
-  <b>“Turning ideas into impactful code — one commit at a time.”</b><br>
-  <sub>— BuiltByWahabXD 👾</sub>
+  ---
+
+✨ <b>“Turning ideas into impactful code — one commit at a time.”</b>  
+<sub>— BuiltByWahabXD 👾</sub>
+
 </div>
