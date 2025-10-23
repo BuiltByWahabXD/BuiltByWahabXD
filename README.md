@@ -74,18 +74,43 @@
   <sub><b>Tech:</b> Flutter · Dart · Firebase · Gemini AI</sub>
 </p>
 
-<p align="left" style="margin-top:10px;">
-  <img src="https://img.shields.io/badge/🎮%20Nerve-Classic%20CLI%20Challenge-FF5733?style=for-the-badge&logo=c&logoColor=white&labelColor=1E1E2E" width="480" height="90"/><br>
-  <sub>Terminal-based reflex game written purely in C</sub><br>
+<p align="left">
+  <img src="https://img.shields.io/badge/🎮%20Nerve-Classic%20CLI%20Challenge-FF5733?style=for-the-badge&logo=c&logoColor=white&labelColor=1E1E2E" width="480" height="90" style="margin-top:10px;"/><br>
+  <sub><b>Terminal-based Reflex Game</b> — built from scratch in pure C to test logic and timing.</sub><br>
   <sub><b>Tech:</b> C Language</sub>
 </p>
 
-<p align="left" style="margin-top:10px;>
+
+<p align="left" style="margin-top:10px;">
   <img src="https://img.shields.io/badge/⚙️%20Your%20Project%20Here-Build%20With%20Me-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=1E1E2E" width="480" height="90"/><br>
   <sub>Let’s turn your idea into a scalable backend and beautiful frontend.</sub><br>
   <sub><b>Tech:</b> Best Suitable for your project</sub>
 </p>
 
+
+<p align="left" style="margin-top:10px;">
+  <img src="https://img.shields.io/badge/🩸%20BloodServe-Legendary%20Backend%20Build-8A2BE2?style=for-the-badge&logo=node.js&logoColor=white&labelColor=1E1E2E" width="480" height="90"/><br>
+  <sub><b>Secure Blood Bank System</b> — featuring authentication, access control, and RESTful APIs.</sub><br>
+  <sub><b>Tech:</b> Node.js · Express · PostgreSQL</sub>
+</p>
+
+<p align="left" style="margin-top:10px;">
+  <img src="https://img.shields.io/badge/🎓%20StudySync-Epic%20Mobile%20App-00B8D4?style=for-the-badge&logo=flutter&logoColor=white&labelColor=1E1E2E" width="480" height="90"/><br>
+  <sub><b>AI-powered Student Productivity App</b> — helps organize timetables, reminders, and material sharing.</sub><br>
+  <sub><b>Tech:</b> Flutter · Dart · Firebase · Gemini AI</sub>
+</p>
+
+<p align="left" style="margin-top:10px;">
+  <img src="https://img.shields.io/badge/🎮%20Nerve-Classic%20CLI%20Challenge-FF5733?style=for-the-badge&logo=c&logoColor=white&labelColor=1E1E2E" width="480" height="90"/><br>
+  <sub><b>Terminal-based Reflex Game</b> — built from scratch in pure C to test logic and timing.</sub><br>
+  <sub><b>Tech:</b> C Language</sub>
+</p>
+
+<p align="left" style="margin-top:10px;">
+  <img src="https://img.shields.io/badge/⚙️%20Your%20Project%20Here-Build%20With%20Me-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=1E1E2E" width="480" height="90"/><br>
+  <sub><b>Let’s Build Something Great</b> — I turn ideas into scalable backends and sleek frontends.</sub><br>
+  <sub><b>Tech:</b> Node.js · Flutter · Supabase (custom-fit to your project)</sub>
+</p>
 
 
 
