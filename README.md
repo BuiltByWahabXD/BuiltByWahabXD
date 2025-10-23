@@ -71,16 +71,19 @@
 
 ---
 
-<h2 align="center">⚡ Ranks & Achievements</h2>
+<h2 align="center">🏆 Developer Achievements</h2>
 
 <p align="center">
-  <img src="https://i.imgur.com/pmYlqUe.gif" width="80" title="Backend Mastery 🛠️"/>
-  <img src="https://i.imgur.com/zXzW3yE.gif" width="80" title="Flutter Craftsman 📱"/>
-  <img src="https://i.imgur.com/J8T4O3m.gif" width="80" title="AI Integrator 🤖"/>
-  <img src="https://i.imgur.com/ZAdEZAp.gif" width="80" title="Firebase Guru 🔥"/>
-  <img src="https://i.imgur.com/FZKq0n8.gif" width="80" title="Supabase Explorer 🔗"/>
-  <img src="https://i.imgur.com/EAc2H5m.gif" width="80" title="MongoDB Handler 💻"/>
+  <img src="https://img.shields.io/badge/Backend%20Mastery-1E1E2E?style=for-the-badge&logo=node.js&logoColor=00FFAA&labelColor=121212" />
+  <img src="https://img.shields.io/badge/Flutter%20Craftsman-1E1E2E?style=for-the-badge&logo=flutter&logoColor=40C4FF&labelColor=121212" />
+  <img src="https://img.shields.io/badge/AI%20Integrator-1E1E2E?style=for-the-badge&logo=openai&logoColor=8A2BE2&labelColor=121212" />
+  <img src="https://img.shields.io/badge/Firebase%20Guru-1E1E2E?style=for-the-badge&logo=firebase&logoColor=FFA000&labelColor=121212" />
+  <img src="https://img.shields.io/badge/Supabase%20Explorer-1E1E2E?style=for-the-badge&logo=supabase&logoColor=3ECF8E&labelColor=121212" />
+  <img src="https://img.shields.io/badge/MongoDB%20Handler-1E1E2E?style=for-the-badge&logo=mongodb&logoColor=4DB33D&labelColor=121212" />
+  <img src="https://img.shields.io/badge/Java%20Warrior-1E1E2E?style=for-the-badge&logo=java&logoColor=E34C26&labelColor=121212" />
+  <img src="https://img.shields.io/badge/Python%20Strategist-1E1E2E?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=121212" />
 </p>
+
 
 
 
