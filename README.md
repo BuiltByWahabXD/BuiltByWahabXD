@@ -111,11 +111,11 @@
 
 ### 🌐 Connect With Me
 
-<p align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:30px;>
+<p align="left" style="display:flex; flex-wrap:wrap; justify-content:center; gap:30px;>
   <a href="https://www.linkedin.com/in/abdul-wahab-90ab9a223/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:wahab1127.21@gmail.com">
+  <a href="mailto:Abdulwahab1_7@hotmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/BuiltByWahabXD">
