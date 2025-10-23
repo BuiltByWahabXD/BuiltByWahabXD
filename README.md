@@ -71,17 +71,19 @@
 
 ---
 
-### 
+<h2 align="center">🏆 Developer Achievements</h2>
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend%20Mastery-%F0%9F%9B%A1%EF%B8%8F-blue?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Flutter%20Craftsman-%F0%9F%93%B1-00B8D4?style=for-the-badge&logo=flutter" />
+  <img src="https://img.shields.io/badge/AI%20Integrator-%F0%9F%A4%96-8A2BE2?style=for-the-badge&logo=openai" />
+  <img src="https://img.shields.io/badge/Firebase%20Guru-%F0%9F%94%A5-FFA000?style=for-the-badge&logo=firebase" />
+  <img src="https://img.shields.io/badge/Supabase%20Explorer-%F0%9F%94%97-3ECF8E?style=for-the-badge&logo=supabase" />
+  <img src="https://img.shields.io/badge/MongoDB%20Handler-%F0%9F%92%BB-4DB33D?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/Java%20Warrior-%E2%9A%94%EF%B8%8F-red?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/Python%20Strategist-%F0%9F%90%8D-306998?style=for-the-badge&logo=python" />
+</p>
 
-![Backend](https://img.shields.io/badge/Backend-Node.js%2C%20Express%2C%20TypeScript-blue)
-![Databases](https://img.shields.io/badge/Databases-PostgreSQL%2C%20Supabase%2C%20MongoDB-green)
-![Mobile](https://img.shields.io/badge/Mobile-Flutter%2C%20Dart-orange)
-![Cloud](https://img.shields.io/badge/Cloud-Firebase%2C%20DevOps%20Learning-lightgrey)
-![Languages](https://img.shields.io/badge/Languages-Java%2C%20Python%2C%20C++-purple)
-
-</div>
 
 
 ---
