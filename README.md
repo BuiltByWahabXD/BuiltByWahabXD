@@ -71,15 +71,18 @@
 
 ---
 
-### 📊 GitHub Stats
+### 
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=BuiltByWahabXD&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=BuiltByWahabXD&theme=tokyonight&hide_border=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BuiltByWahabXD&layout=compact&theme=tokyonight&hide_border=true)
+![Backend](https://img.shields.io/badge/Backend-Node.js%2C%20Express%2C%20TypeScript-blue)
+![Databases](https://img.shields.io/badge/Databases-PostgreSQL%2C%20Supabase%2C%20MongoDB-green)
+![Mobile](https://img.shields.io/badge/Mobile-Flutter%2C%20Dart-orange)
+![Cloud](https://img.shields.io/badge/Cloud-Firebase%2C%20DevOps%20Learning-lightgrey)
+![Languages](https://img.shields.io/badge/Languages-Java%2C%20Python%2C%20C++-purple)
 
 </div>
+
 
 ---
 
