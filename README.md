@@ -60,90 +60,31 @@
 
 ---
 
-<h2 align="center">💼 Featured Projects</h2>
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <h3>💉 BloodServe</h3>
-      <p>Secure Blood Bank System with RESTful APIs, authentication, and role-based access.</p>
-      <sub><b>Node.js · Express · PostgreSQL</b></sub>
-    </td>
-    <td align="center" width="50%">
-      <h3>🎓 StudySync</h3>
-      <p>AI-powered Flutter app enhancing student productivity with reminders and material sharing.</p>
-      <sub><b>Flutter · Dart · Firebase · Gemini AI</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h3>🎮 Nerve (CLI Game)</h3>
-      <p>Modular terminal-based game in C, built for logic and structure demonstration.</p>
-      <sub><b>C Language</b></sub>
-    </td>
-    <td align="center" width="50%">
-      <h3>⚙️ Your Project Here</h3>
-      <p>I can bring your idea to life with a scalable backend and smooth frontend experience.</p>
-      <sub><b>Node.js · Flutter · Supabase</b></sub>
-    </td>
-  </tr>
-</table>
-
 <h2 align="center">🏆 Featured Projects</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🩸%20BloodServe-Legendary%20Backend%20Build-8A2BE2?style=for-the-badge&logo=node.js&logoColor=white&labelColor=1E1E2E" /><br>
+  <img src="https://img.shields.io/badge/🩸%20BloodServe-Legendary%20Backend%20Build-8A2BE2?style=for-the-badge&logo=node.js&logoColor=white&labelColor=1E1E2E" width="350" height="60"/><br>
   <sub>Secure Blood Bank System • Authentication • Role-based Access Control</sub><br>
   <sub><b>Tech:</b> Node.js · Express · PostgreSQL</sub>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🎓%20StudySync-Epic%20Mobile%20App-00B8D4?style=for-the-badge&logo=flutter&logoColor=white&labelColor=1E1E2E" /><br>
+  <img src="https://img.shields.io/badge/🎓%20StudySync-Epic%20Mobile%20App-00B8D4?style=for-the-badge&logo=flutter&logoColor=white&labelColor=1E1E2E" width="350" height="60"/><br>
   <sub>AI-powered student productivity app (timetables, reminders, notes)</sub><br>
   <sub><b>Tech:</b> Flutter · Dart · Firebase · Gemini AI</sub>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🎮%20Nerve-Classic%20CLI%20Challenge-FF5733?style=for-the-badge&logo=c&logoColor=white&labelColor=1E1E2E" /><br>
+  <img src="https://img.shields.io/badge/🎮%20Nerve-Classic%20CLI%20Challenge-FF5733?style=for-the-badge&logo=c&logoColor=white&labelColor=1E1E2E" width="350" height="60"/><br>
   <sub>Terminal-based reflex game written purely in C</sub><br>
   <sub><b>Tech:</b> C Language</sub>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/⚙️%20Your%20Project%20Here-Build%20With%20Me-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=1E1E2E" /><br>
+  <img src="https://img.shields.io/badge/⚙️%20Your%20Project%20Here-Build%20With%20Me-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=1E1E2E" width="350" height="60"/><br>
   <sub>Let’s turn your idea into a scalable backend and beautiful frontend.</sub><br>
-  <sub><b>Tech:</b> Node.js · Flutter · Supabase</sub>
+  <sub><b>Tech:</b> Best Suitable for your project</sub>
 </p>
-
-<h2 align="center">🧩 Featured Projects</h2>
-
-<div align="center">
-
-💉 **BloodServe**  
-🔒 A secure Blood Bank Management System with role-based access, donor records, and RESTful APIs.  
-🧰 *Node.js · Express · PostgreSQL*  
-
----
-
-🎓 **StudySync**  
-🤖 AI-powered Flutter app for student productivity — timetables, smart reminders, and material sharing.  
-🧰 *Flutter · Dart · Firebase · Gemini AI*  
-
----
-
-🎮 **Nerve (CLI Game)**  
-🧠 A modular terminal-based game built purely in C — testing reflex and logic through structure and code.  
-🧰 *C Language*  
-
----
-
-⚙️ **Your Project Here**  
-🚀 I can bring your idea to life with a **scalable backend** and **smooth frontend experience**.  
-🧰 *Node.js · Flutter · Supabase*  
-
-</div>
-
-
 
 
 
