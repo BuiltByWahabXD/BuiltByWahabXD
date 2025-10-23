@@ -1,1 +1,95 @@
-<div align="center"><!-- Dynamic, attention-grabbing banner --><img src="https://www.google.com/search?q=https://media.giphy.com/media/LmN8APbYc2j3G/giphy.gif" alt="Coding GIF Banner" width="100%" /></div><h1 align="center">Hi there 👋, I'm Abdul Wahab!</h1><div align="center"><p><i>Software Engineering Undergraduate building Scalable Backends 🌐, Cross-Platform Mobile Apps 📱, and integrating AI solutions 🤖.</i></p><p>Skilled problem-solver and quick learner focused on delivering innovative and impactful digital solutions.</p></div>🚀 Core Tech Stack & ExpertiseMy focus is on robust, modern development across the stack, ensuring high performance and strong architecture.CategoryKey TechnologiesBackend & APIsNode.js (Express), TypeScript, Java, REST, JWT AuthenticationMobile & FrontendFlutter, Dart, JavaScript, HTML, CSS, UI/UX DesignDatabasesPostgreSQL, MySQL, ORMsFundamentalsC/C++, Data Structures & Algorithms, OOP, Distributed Systems<h3 align="left">🔧 Tools & Development Environment:</h3><p align="left"><!-- Corrected Badge URLs using Simple Icons --><img src="https://www.google.com/search?q=https://img.shields.io/badge/Node.js-339933%3Fstyle%3Dfor-the-badge%26logo%3Dnodedotjs%26logoColor%3Dwhite" alt="Node.js Badge"/><img src="https://www.google.com/search?q=https://img.shields.io/badge/TypeScript-007ACC%3Fstyle%3Dfor-the-badge%26logo%3Dtypescript%26logoColor%3Dwhite" alt="TypeScript Badge"/><img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" alt="JavaScript Badge"/><img src="https://www.google.com/search?q=https://img.shields.io/badge/Java-007396%3Fstyle%3Dfor-the-badge%26logo%3Dopenjdk%26logoColor%3Dwhite" alt="Java Badge"/><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Badge"/><img src="https://www.google.com/search?q=https://img.shields.io/badge/PostgreSQL-316192%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite" alt="PostgreSQL Badge"/><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/><img src="https://www.google.com/search?q=https://img.shields.io/badge/C%252B%252B-00599C%3Fstyle%3Dfor-the-badge%26logo%3Dc%252B%252B%26logoColor%3Dwhite" alt="C++ Badge"/><img src="https://www.google.com/search?q=https://img.shields.io/badge/Dart-0175C2%3Fstyle%3Dfor-the-badge%26logo%3Ddart%26logoColor%3Dwhite" alt="Dart Badge"/><img src="https://www.google.com/search?q=https://img.shields.io/badge/GIT-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git Badge"/><img src="https://www.google.com/search?q=https://img.shields.io/badge/VS%2520Code-007ACC%3Fstyle%3Dfor-the-badge%26logo%3Dvisualstudiocode%26logoColor%3Dwhite" alt="VS Code Badge"/></p>🎯 Featured ProjectsThese are my key projects demonstrating full-stack implementation and innovative features.ProjectKey Contributions & FocusTechnologiesBloodServe (Full-Stack System)Developed a secure Node.js/Express REST API with JWT authentication and PostgreSQL to manage real-time inventory and role-based access for a Blood Bank Management System.Node.js, PostgreSQL, ExpressStudySync (Flutter App with AI)Engineered core productivity features (timetable, offline material, reminders) and integrated a Gemini-powered AI assistant for academic support.Flutter, Dart, AI IntegrationNerve (C Language Game)Architected a single intuitive CLI game project in C, showcasing foundational skills in modular game logic, development, and user interface design.C Language<h3 align="left">📈 GitHub Activity & Stats (Please update 'YOUR-USERNAME'):</h3><div align="center"><!-- Replace 'YOUR-USERNAME' with your GitHub username for these to load! --><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DYOUR-USERNAME%26show_icons%3Dtrue%26theme%3Dvue%26hide_border%3Dtrue%26count_private%3Dtrue" alt="Abdul Wahab's GitHub Stats" /><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DYOUR-USERNAME%26layout%3Dcompact%26langs_count%3D6%26theme%3Dvue%26hide_border%3Dtrue" alt="Top Languages" /><img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DYOUR-USERNAME%26theme%3Dvue%26hide_border%3Dtrue" alt="GitHub Streak Stats" /></div><h3 align="left">📧 Let's Connect:</h3><p align="left"><!-- Use your actual LinkedIn URL here --><a href="https://www.linkedin.com/in/abdul-wahab-90ab9a223/" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/></a><!-- Direct link to your email --><a href="mailto:wahab1127.21@gmail.com"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email"/></a></p>
+<!-- Profile Banner -->
+<div align="center">
+  <img src="https://media.giphy.com/media/LmN8APbYc2j3G/giphy.gif" alt="Coding Banner" width="100%" />
+</div>
+
+<h1 align="center">👋 Hi, I'm Abdul Wahab</h1>
+
+<p align="center">
+  <i>Software Engineering Undergraduate | Backend & Mobile Developer</i><br>
+  <b>Crafting scalable backends ⚙️, building seamless cross-platform experiences 📱, and integrating intelligent AI-driven systems 🤖.</b>
+</p>
+
+---
+
+### 🚀 About Me
+💡 A passionate developer dedicated to **building efficient, reliable, and human-centered digital systems**.  
+🎯 Currently focused on mastering **Backend Development** with **Node.js, TypeScript, and modern database ecosystems**.  
+🌱 Learning **Cloud & DevOps** to design, deploy, and scale production-ready applications.  
+⚡ I believe in clean architecture, continuous learning, and delivering impactful solutions.  
+
+---
+
+### 🧠 Tech Stack
+
+#### 🖥️ Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![REST](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=swagger&logoColor=white)
+
+#### 🗄️ Databases & Cloud
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+#### 📱 Mobile & Frontend
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+#### ⚙️ Fundamentals & Tools
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-FF6F00?style=for-the-badge&logo=coffeescript&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-5B2C6F?style=for-the-badge&logo=leetcode&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+### 🧩 Featured Projects
+
+| 🚀 Project | 🔍 Description | 🧰 Tech Stack |
+|-------------|----------------|----------------|
+| 🩸 **BloodServe** | Secure Blood Bank System with RESTful APIs, authentication, and role-based access control. | Node.js, Express, PostgreSQL |
+| 🎓 **StudySync** | AI-powered Flutter app for student productivity (timetables, reminders, material sharing). | Flutter, Dart, Firebase, Gemini AI |
+| 🎮 **Nerve (CLI Game)** | Modular terminal-based game built purely in C, showcasing logic and structure. | C Language |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BuiltByWahabXD&show_icons=true&theme=vue-dark&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BuiltByWahabXD&layout=compact&theme=vue-dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BuiltByWahabXD&theme=vue-dark&hide_border=true)
+
+</div>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdul-wahab-90ab9a223/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:wahab1127.21@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <b>“Turning ideas into impactful code — one commit at a time.”</b><br>
+  <sub>— BuiltByWahabXD 🚀</sub>
+</div>
