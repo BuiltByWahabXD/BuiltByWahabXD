@@ -1,4 +1,3 @@
-<!-- Banner -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/BuiltByWahabXD/BuiltByWahabXD/main/Linkedin%20Banner%20(1).png" alt="Abdul Wahab Banner" width="100%" />
 </div>
