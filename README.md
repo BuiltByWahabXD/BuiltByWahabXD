@@ -2,7 +2,6 @@
   <img src="https://raw.githubusercontent.com/BuiltByWahabXD/BuiltByWahabXD/main/Linkedin%20Banner%20(1).png" alt="Abdul Wahab Banner" width="100%" />
 </div>
 
-
 <h1 align="center">👋 Hi, I'm Abdul Wahab</h1>
 
 <p align="center">
