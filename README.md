@@ -11,7 +11,8 @@
 
 ---
 
-### 🚀 About Me
+<h2 align="left">🚀 About Me</h2>
+
 💡 A passionate developer focused on **building efficient, reliable, and user-centric digital systems**.  
 🎯 Currently focused on mastering **Backend Development** with **Node.js, TypeScript, and modern database ecosystems**.  
 🌱 Expanding into **Cloud & DevOps** to design, deploy, and scale production-grade systems.  
@@ -19,7 +20,8 @@
 
 ---
 
-### 🧠 Tech Stack
+<h2 align="left">🧠 Tech Stack</h2>
+
 
 #### 🖥️ Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
