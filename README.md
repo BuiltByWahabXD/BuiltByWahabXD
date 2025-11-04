@@ -109,7 +109,8 @@
 
 ---
 
-### 🌐 Connect With Me
+<h2 align="left">🌐 Connect With Me</h2>
+
 Let’s collaborate and build something impactful 🚀  
 
 <p align="left" style="display:flex; flex-wrap:wrap; justify-content:center; gap:30px;>
