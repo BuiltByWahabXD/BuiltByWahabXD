@@ -89,7 +89,7 @@
   <sub><b>Tech:</b> Node.js · Flutter · Supabase (custom-fit to your project)</sub>
 </p>
 
-
+---
 
 <h2 align="left">🏆 Developer Achievements</h2>
 
